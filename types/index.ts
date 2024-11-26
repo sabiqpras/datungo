@@ -24,6 +24,7 @@ export interface StationaryCardProps {
 }
 
 export interface InventoryCardProps {
+  img: string;
   type: string;
   name: string;
   condition: string;

@@ -8,13 +8,13 @@ const HeroHelp = () => {
         <div className="">TUN</div>
       </h1>
       <p className="text-justify px-5 mt-10 lg:mt-3">
-        Ea magna sint laborum ullamco in in aliquip culpa ad cupidatat
-        consectetur nisi ipsum elit. Ex veniam anim dolore in minim sint nostrud
-        ipsum nisi dolore ea ipsum quis. Do mollit dolor culpa commodo
-        reprehenderit aliqua pariatur magna minim qui eu mollit eu
-        reprehenderit. Elit veniam eu est enim veniam est ex minim do incididunt
-        nisi ad ullamco. Sunt dolore aute Lorem consectetur occaecat officia
-        veniam sunt adipisicing.
+        The directorate also focuses on safeguarding the state&apos;s interests
+        through proactive legal reviews, litigation, and advisory functions. By
+        leveraging efficient systems and policies, the TUN Directorate strives
+        to enhance governance, uphold justice, and promote accountability across
+        various administrative institutions. Its commitment to transparency and
+        innovation aligns with broader efforts to modernize legal and
+        administrative frameworks in Indonesia.
       </p>
     </div>
   );

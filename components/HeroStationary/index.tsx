@@ -8,7 +8,7 @@ const HeroStationary = () => {
         <div>Info</div>
       </h2>
       <p className="text-justify mt-5">
-        Cillum duis exercitation laboris voluptate laborum sit commodo proident.
+        The list of Stationary in TUN Directorate.
       </p>
     </div>
   );
