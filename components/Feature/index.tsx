@@ -11,7 +11,7 @@ const Feature = () => {
       />
       <FeatureCard
         title="Inventory Info"
-        para="Check InventoryList."
+        para="Check Inventory List."
         featureclass="mt-5"
         link="/Inventory"
       />
